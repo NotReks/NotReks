@@ -22,7 +22,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=BlackRexYT&theme=dark"/>
   </div>
   <div>
-    <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackRexYT)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackRexYT&theme=vision-friendly-dark"/>
   </div>  
 </div>
 
