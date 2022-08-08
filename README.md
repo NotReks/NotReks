@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> Hey, I'm Fahad and I'm a Computer Science Major Studying Java! </h1>
+  <h1> Hey! </h1>
 </div>
 <div id="badges" align="center">
   <a href="https://www.twitter.com/blackrexart">
@@ -17,6 +17,11 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   </div>
+  <h2> My statistics: </h2>
+  <div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=BlackRexYT&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackRexYT&layout=compact&theme=vision-friendly-dark"/>
+  </div>  
 </div>
 
   
