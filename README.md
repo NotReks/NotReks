@@ -7,7 +7,7 @@
   </a>
 </div>
 <div id="badges 2" align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlackRexYT&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=NotReks&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="badges 3" align="center">
   <h2> These are the languages and libraries I know. </h2>
@@ -25,10 +25,10 @@
   </div>
   <h2> My statistics: </h2>
   <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=BlackRexYT&theme=dark"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=NotReks&theme=dark"/>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackRexYT&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotReks&theme=vision-friendly-dark"/>
   </div>  
 </div>
 
